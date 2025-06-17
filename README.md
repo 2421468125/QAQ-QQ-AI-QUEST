@@ -28,6 +28,7 @@
 4.**开始运行**
 - windows: 运行 start.bat
 - linux: 运行 start.sh
+
 运行时你需要进入前端页面或在[config.json](config.json)中修改`valid_QQid`，机器人仅会回复在该列表内的QQ号，避免错回复。
 如果修改后无法即时生效，可以重新运行。
 
