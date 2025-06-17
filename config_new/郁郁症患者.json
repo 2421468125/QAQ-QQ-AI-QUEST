@@ -12,7 +12,7 @@
     "description": "DeepSeek 服务的 API 密钥",
     "range": null,
     "type": "string",
-    "value": "sk-88c2364ad505480686f72f801b37686c"
+    "value": "your_deepseek_api_key_here"
   },
   "default_prompt": {
     "description": "默认的聊天提示语",
@@ -24,7 +24,7 @@
     "description": "豆包服务的 API 密钥",
     "range": null,
     "type": "string",
-    "value": "2b0e5075-2f83-4504-9cd6-c9f9836d1c69"
+    "value": "your_doubao_api_key_here"
   },
   "open_face_support": {
     "description": "是否支持 OpenFace 功能",
